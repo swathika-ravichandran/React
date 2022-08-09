@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.mobApp {
+  width: 500px;
+}
+.buttonClass {
+  width: 500px;
+  height: 20px;
+}
+.todocontainer {
+  width: 300px;
+  height: 200px;
+  overflow-y: auto;
+}
+ul {
+  list-style-type: none;
+}
+.strike {
+  text-decoration: line-through;
+}
